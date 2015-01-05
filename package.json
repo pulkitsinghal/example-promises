@@ -1,0 +1,15 @@
+{
+  "name": "example-promises",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "bluebird": "^2.5.3",
+    "parse": "^1.3.0",
+    "q": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pulkit Singhal",
+  "license": "Apache"
+}
